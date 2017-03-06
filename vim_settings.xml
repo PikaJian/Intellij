@@ -50,13 +50,13 @@
         <mark key="." line="3" column="30" />
         <mark key="^" line="3" column="30" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/bluetothrecord/app/src/main/java/example/com/bluetothrecord/MainActivity.java" timestamp="1488791171792">
-        <mark key="'" line="265" column="18" />
+      <file name="$USER_HOME$/AndroidStudioProjects/bluetothrecord/app/src/main/java/example/com/bluetothrecord/MainActivity.java" timestamp="1488792863848">
+        <mark key="'" line="418" column="55" />
         <mark key="k" line="39" column="13" />
-        <mark key="[" line="351" column="0" />
-        <mark key="]" line="361" column="21" />
-        <mark key="." line="351" column="0" />
-        <mark key="^" line="449" column="18" />
+        <mark key="[" line="364" column="0" />
+        <mark key="]" line="374" column="21" />
+        <mark key="." line="364" column="0" />
+        <mark key="^" line="311" column="32" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/bluetothrecord/app/build.gradle" timestamp="1488770630673">
         <mark key="[" line="27" column="4" />
@@ -81,6 +81,8 @@
       <jump line="30" column="0" filename="$USER_HOME$/AndroidStudioProjects/bluetothrecord/app/src/main/java/example/com/bluetothrecord/MainActivity.java" />
       <jump line="265" column="18" filename="$USER_HOME$/AndroidStudioProjects/bluetothrecord/app/src/main/java/example/com/bluetothrecord/MainActivity.java" />
       <jump line="433" column="17" filename="$USER_HOME$/AndroidStudioProjects/bluetothrecord/app/src/main/java/example/com/bluetothrecord/MainActivity.java" />
+      <jump line="209" column="20" filename="$USER_HOME$/AndroidStudioProjects/bluetothrecord/app/src/main/java/example/com/bluetothrecord/MainActivity.java" />
+      <jump line="418" column="55" filename="$USER_HOME$/AndroidStudioProjects/bluetothrecord/app/src/main/java/example/com/bluetothrecord/MainActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -93,10 +95,10 @@
         <text>C</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxNYWluQWN0aXZpdHlcPg==</text>
+        <text encoding="base64">XDxtQnVmZmVyXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>mFileName</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZihpc1JlY29yZGluZykKICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgIHN0YXJ0UmVjb3JkQnV0dG9uLnNldFRleHQoInJlY29yZCB2b2ljZSIpOwogICAgICAgICAgICAgICAgICAgICAgICBpc1JlY29yZGluZz1mYWxzZTsKICAgICAgICAgICAgICAgICAgICAgICAgbUFSZWNvcmRlci5zdG9wKCk7CiAgICAgICAgICAgICAgICAgICAgfSBlbHNlewogICAgICAgICAgICAgICAgICAgICAgICBzdGFydFJlY29yZEJ1dHRvbi5zZXRUZXh0KCKwsaTuIik7CiAgICAgICAgICAgICAgICAgICAgICAgIGlzUmVjb3JkaW5nPXRydWU7CiAgICAgICAgICAgICAgICAgICAgICAgIG1BUmVjb3JkZXIuc3RhcnRSZWNvcmRpbmcoKTsKICAgICAgICAgICAgICAgICAgICAgICAgc3RhcnRCdWZmZXJlZFdyaXRlKG5ldyBGaWxlKG1GaWxlTmFtZSkpOwogICAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZihpc1JlY29yZGluZykKICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgIHN0YXJ0UmVjb3JkQnV0dG9uLnNldFRleHQoInJlY29yZCB2b2ljZSIpOwogICAgICAgICAgICAgICAgICAgICAgICBpc1JlY29yZGluZz1mYWxzZTsKICAgICAgICAgICAgICAgICAgICAgICAgbUFSZWNvcmRlci5zdG9wKCk7CiAgICAgICAgICAgICAgICAgICAgfSBlbHNlewogICAgICAgICAgICAgICAgICAgICAgICBzdGFydFJlY29yZEJ1dHRvbi5zZXRUZXh0KCKwsaTuIik7CiAgICAgICAgICAgICAgICAgICAgICAgIGlzUmVjb3JkaW5nPXRydWU7CiAgICAgICAgICAgICAgICAgICAgICAgIG1BUmVjb3JkZXIuc3RhcnRSZWNvcmRpbmcoKTsKICAgICAgICAgICAgICAgICAgICAgICAgc3RhcnRCdWZmZXJlZFdyaXRlKG5ldyBGaWxlKG1GaWxlTmFtZSkpOwogICAgICAgICAgICAgICAgICAgIH0K</text>
@@ -130,15 +132,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxNYWluQWN0aXZpdHlcPg==</last-search>
+      <last-search encoding="base64">XDxtQnVmZmVyXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxNYWluQWN0aXZpdHlcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxtQnVmZmVyXD4=</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
         <entry encoding="base64">XDxNYWluQWN0aXZpdHlcPg==</entry>
+        <entry encoding="base64">XDxtQnVmZmVyXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
