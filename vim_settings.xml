@@ -50,13 +50,13 @@
         <mark key="." line="3" column="30" />
         <mark key="^" line="3" column="30" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/bluetothrecord/app/src/main/java/example/com/bluetothrecord/MainActivity.java" timestamp="1488780509572">
+      <file name="$USER_HOME$/AndroidStudioProjects/bluetothrecord/app/src/main/java/example/com/bluetothrecord/MainActivity.java" timestamp="1488784839536">
         <mark key="'" line="199" column="15" />
-        <mark key="[" line="317" column="13" />
         <mark key="k" line="32" column="13" />
-        <mark key="]" line="317" column="25" />
-        <mark key="." line="364" column="0" />
-        <mark key="^" line="364" column="0" />
+        <mark key="[" line="360" column="31" />
+        <mark key="]" line="338" column="37" />
+        <mark key="." line="338" column="37" />
+        <mark key="^" line="338" column="37" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/bluetothrecord/app/build.gradle" timestamp="1488770630673">
         <mark key="[" line="27" column="4" />
@@ -92,42 +92,37 @@
         <text encoding="base64">XDxNYWluQWN0aXZpdHlcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>mAudioManager</text>
+        <text encoding="base64">U0NPX0FVRElPX1NUQVRFX0NPTk5FQ1RJTkcg</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c2V0IGlnbm9yZWNhc2Ugc21hcnRjYXNlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB1bnJlZ2lzdGVyUmVjZWl2ZXIodGhpcyk7ICAvLz8/unwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bm5vcmVtYXAgW2MgOmFjdGlvbiBWY3NTaG93UHJldkNoYW5nZU1hcmtlcjxjcj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB1bnJlZ2lzdGVyUmVjZWl2ZXIodGhpcyk7ICAvLz8/unwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bm5vcmVtYXAgW20gOmFjdGlvbiBNZXRob2RVcDxjcj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB1bnJlZ2lzdGVyUmVjZWl2ZXIodGhpcyk7ICAvLz8/unwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bm5vcmVtYXAgW3EgOmFjdGlvbiBQcmV2aW91c09jY3VyZW5jZTxjcj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB1bnJlZ2lzdGVyUmVjZWl2ZXIodGhpcyk7ICAvLz8/unwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">bm1hcCA8bGVhZGVyPm5zIDphY3Rpb24gR290b1N5bWJvbDxjcj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgdW5yZWdpc3RlclJlY2VpdmVyKHRoaXMpOyAgLy8/P7p8Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">bm1hcCA8bGVhZGVyPmd0IDphY3Rpb24gR290b0ZpbGU8Y3I+Cm5tYXAgPGxlYWRlcj5nYyA6YWN0aW9uIEdvdG9DbGFzczxjcj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB1bnJlZ2lzdGVyUmVjZWl2ZXIodGhpcyk7ICAvLz8/unwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">bm1hcCA8bGVhZGVyPmIgOmFjdGlvbiBCYWNrPGNyPgpubWFwIDxsZWFkZXI+ZiA6YWN0aW9uIEZvcndhcmQ8Y3I+Cg==</text>
+        <text encoding="base64">ICAgICAgICBMb2cuaShUQUcsICJzdG9wIHJlY29yZGluZyIpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bm1hcCA8bGVhZGVyPmcgOmFjdGlvbiBHb3RvRGVjbGFyYXRpb248Y3I+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2cuaShUQUcsICKmQaa4c3RhcnRCbHVldG9vdGhTY28oKSIpOwo=</text>
       </register>
-      <register name="9" type="8">
-        <text>[
-]
-[
-]
-[
-]</text>
+      <register name="9" type="2">
+        <text encoding="base64">c2V0IGlnbm9yZWNhc2Ugc21hcnRjYXNlCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Find</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -152,8 +147,8 @@
         <entry>action :cursive.actions.paredit/wrap-square</entry>
         <entry>action :cursive.actions.paredit/barf-forwards</entry>
         <entry>action :cursive.actions.paredit/wrap-paren</entry>
-        <entry>w</entry>
         <entry>action Find</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
