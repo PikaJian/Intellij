@@ -50,13 +50,13 @@
         <mark key="." line="3" column="30" />
         <mark key="^" line="3" column="30" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/bluetothrecord/app/src/main/java/example/com/bluetothrecord/MainActivity.java" timestamp="1488786891776">
+      <file name="$USER_HOME$/AndroidStudioProjects/bluetothrecord/app/src/main/java/example/com/bluetothrecord/MainActivity.java" timestamp="1488788853041">
         <mark key="'" line="199" column="15" />
         <mark key="k" line="32" column="13" />
-        <mark key="[" line="301" column="28" />
-        <mark key="]" line="301" column="39" />
-        <mark key="." line="301" column="39" />
-        <mark key="^" line="301" column="39" />
+        <mark key="[" line="335" column="31" />
+        <mark key="]" line="335" column="33" />
+        <mark key="." line="335" column="33" />
+        <mark key="^" line="335" column="33" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/bluetothrecord/app/build.gradle" timestamp="1488770630673">
         <mark key="[" line="27" column="4" />
@@ -92,34 +92,34 @@
         <text encoding="base64">XDxNYWluQWN0aXZpdHlcPg==</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">U0NPX0FVRElPX1NUQVRFX0NPTk5FQ1RJTkcg</text>
+        <text>DisplayToast</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB1bnJlZ2lzdGVyUmVjZWl2ZXIodGhpcyk7ICAvLz8/unwK</text>
+        <text encoding="base64">ICAgICAgICAqLwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB1bnJlZ2lzdGVyUmVjZWl2ZXIodGhpcyk7ICAvLz8/unwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAobUF1ZGlvTWFuYWdlci5pc0JsdWV0b290aFNjb09uKCkpIHsKICAgICAgICAgICAgICAgICAgICAgICAgTG9nLmkoVEFHLCAic3RvcCBzY28gcmVjb3JkaW5nIik7CiAgICAgICAgICAgICAgICAgICAgICAgIG1BdWRpb01hbmFnZXIuc2V0Qmx1ZXRvb3RoU2NvT24oZmFsc2UpOwogICAgICAgICAgICAgICAgICAgICAgICBtQXVkaW9NYW5hZ2VyLnN0b3BCbHVldG9vdGhTY28oKTsKICAgICAgICAgICAgICAgICAgICAgICAgbUF1ZGlvTWFuYWdlci5zZXRTcGVha2VycGhvbmVPbih0cnVlKTsKICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB1bnJlZ2lzdGVyUmVjZWl2ZXIodGhpcyk7ICAvLz8/unwK</text>
+        <text encoding="base64">ICAgICAgICBpZiAobUF1ZGlvTWFuYWdlci5pc0JsdWV0b290aFNjb09uKCkpIHsKICAgICAgICAgICAgTG9nLmkoVEFHLCAic3RvcCBzY28gcmVjb3JkaW5nIik7CiAgICAgICAgICAgIG1BdWRpb01hbmFnZXIuc2V0Qmx1ZXRvb3RoU2NvT24oZmFsc2UpOwogICAgICAgICAgICBtQXVkaW9NYW5hZ2VyLnN0b3BCbHVldG9vdGhTY28oKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB1bnJlZ2lzdGVyUmVjZWl2ZXIodGhpcyk7ICAvLz8/unwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdW5yZWdpc3RlclJlY2VpdmVyKHRoaXMpOyAgLy8/P7p8Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB1bnJlZ2lzdGVyUmVjZWl2ZXIodGhpcyk7ICAvLz8/unwK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB1bnJlZ2lzdGVyUmVjZWl2ZXIodGhpcyk7ICAvLz8/unwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBMb2cuaShUQUcsICJzdG9wIHJlY29yZGluZyIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB1bnJlZ2lzdGVyUmVjZWl2ZXIodGhpcyk7ICAvLz8/unwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2cuaShUQUcsICKmQaa4c3RhcnRCbHVldG9vdGhTY28oKSIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdW5yZWdpc3RlclJlY2VpdmVyKHRoaXMpOyAgLy8/P7p8Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">c2V0IGlnbm9yZWNhc2Ugc21hcnRjYXNlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB1bnJlZ2lzdGVyUmVjZWl2ZXIodGhpcyk7ICAvLz8/unwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -148,6 +148,7 @@
         <entry>action :cursive.actions.paredit/barf-forwards</entry>
         <entry>action :cursive.actions.paredit/wrap-paren</entry>
         <entry>action Find</entry>
+        <entry>action CommentByLineComment</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
