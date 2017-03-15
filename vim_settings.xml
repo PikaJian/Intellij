@@ -50,12 +50,12 @@
         <mark key="." line="3" column="30" />
         <mark key="^" line="3" column="30" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/bluetothrecord/app/src/main/java/example/com/bluetothrecord/MainActivity.java" timestamp="1489558491146">
+      <file name="$USER_HOME$/AndroidStudioProjects/bluetothrecord/app/src/main/java/example/com/bluetothrecord/MainActivity.java" timestamp="1489560155641">
         <mark key="'" line="315" column="34" />
-        <mark key="[" line="228" column="9" />
-        <mark key="]" line="229" column="37" />
-        <mark key="." line="229" column="37" />
-        <mark key="^" line="229" column="37" />
+        <mark key="[" line="210" column="31" />
+        <mark key="]" line="210" column="40" />
+        <mark key="." line="272" column="28" />
+        <mark key="^" line="272" column="28" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/bluetothrecord/app/build.gradle" timestamp="1488770630673">
         <mark key="[" line="27" column="4" />
@@ -109,7 +109,7 @@
         <text encoding="base64">XDxzdGFydEJ1ZmZlcmVkV3JpdGVcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>copyWaveFile</text>
+        <text>getChannel</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIEF1ZGlvRm9ybWF0LkNIQU5ORUxfSU5fTU9OTywgQXVkaW9Gb3JtYXQuRU5DT0RJTkdfUENNXzE2QklUKTsK</text>
