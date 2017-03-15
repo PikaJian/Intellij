@@ -10,7 +10,7 @@
         <mark key="^" line="91" column="31" />
         <mark key="." line="86" column="51" />
       </file>
-      <file name="/Dummy.txt" timestamp="1488869188059">
+      <file name="/Dummy.txt" timestamp="1489562190633">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/BluetoothChat/Application/src/main/java/com/example/android/common/activities/SampleActivityBase.java" timestamp="1488550904844">
@@ -50,12 +50,13 @@
         <mark key="." line="3" column="30" />
         <mark key="^" line="3" column="30" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/bluetothrecord/app/src/main/java/example/com/bluetothrecord/MainActivity.java" timestamp="1489560879465">
-        <mark key="'" line="215" column="21" />
-        <mark key="[" line="350" column="28" />
-        <mark key="]" line="351" column="7" />
-        <mark key="." line="351" column="7" />
-        <mark key="^" line="351" column="7" />
+      <file name="$USER_HOME$/AndroidStudioProjects/bluetothrecord/app/src/main/java/example/com/bluetothrecord/MainActivity.java" timestamp="1489563966248">
+        <mark key="a" line="211" column="61" />
+        <mark key="'" line="41" column="25" />
+        <mark key="[" line="209" column="35" />
+        <mark key="]" line="223" column="37" />
+        <mark key="." line="223" column="37" />
+        <mark key="^" line="223" column="37" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/bluetothrecord/app/build.gradle" timestamp="1488770630673">
         <mark key="[" line="27" column="4" />
@@ -96,6 +97,12 @@
       <jump line="313" column="34" filename="$USER_HOME$/AndroidStudioProjects/bluetothrecord/app/src/main/java/example/com/bluetothrecord/MainActivity.java" />
       <jump line="351" column="7" filename="$USER_HOME$/AndroidStudioProjects/bluetothrecord/app/src/main/java/example/com/bluetothrecord/MainActivity.java" />
       <jump line="215" column="21" filename="$USER_HOME$/AndroidStudioProjects/bluetothrecord/app/src/main/java/example/com/bluetothrecord/MainActivity.java" />
+      <jump line="206" column="57" filename="$USER_HOME$/AndroidStudioProjects/bluetothrecord/app/src/main/java/example/com/bluetothrecord/MainActivity.java" />
+      <jump line="210" column="53" filename="$USER_HOME$/AndroidStudioProjects/bluetothrecord/app/src/main/java/example/com/bluetothrecord/MainActivity.java" />
+      <jump line="201" column="26" filename="$USER_HOME$/AndroidStudioProjects/bluetothrecord/app/src/main/java/example/com/bluetothrecord/MainActivity.java" />
+      <jump line="207" column="11" filename="$USER_HOME$/AndroidStudioProjects/bluetothrecord/app/src/main/java/example/com/bluetothrecord/MainActivity.java" />
+      <jump line="39" column="6" filename="$USER_HOME$/AndroidStudioProjects/bluetothrecord/app/src/main/java/example/com/bluetothrecord/MainActivity.java" />
+      <jump line="41" column="25" filename="$USER_HOME$/AndroidStudioProjects/bluetothrecord/app/src/main/java/example/com/bluetothrecord/MainActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -111,34 +118,34 @@
         <text encoding="base64">XDxzdGFydEJ1ZmZlcmVkV3JpdGVcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>getChannel</text>
+        <text>FileChannel out</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEF1ZGlvRm9ybWF0LkNIQU5ORUxfSU5fTU9OTywgQXVkaW9Gb3JtYXQuRU5DT0RJTkdfUENNXzE2QklUKTsK</text>
+        <text encoding="base64">ICAgICAgICBGaWxlQ2hhbm5lbCBvdXQgPSBudWxsOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHdyaXRlSW5kZXggPT0gMCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgIFdyaXRlV2F2ZUZpbGVIZWFkZXIoKQogICAgICAgICAgICAgICAgICAgICAgICB3cml0ZUluZGV4ICs9IHJlYWRTaXplOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEF1ZGlvRm9ybWF0LkNIQU5ORUxfSU5fTU9OTywgQXVkaW9Gb3JtYXQuRU5DT0RJTkdfUENNXzE2QklUKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHdyaXRlSW5kZXggPT0gMCkKICAgICAgICAgICAgICAgICAgICAgICAgd3JpdGVJbmRleCArPSByZWFkU2l6ZTsKICAgICAgICAgICAgICAgICAgICAgICAgbUFUcmFja2VyLndyaXRlKG1CdWZmZXIsIDAsIG1CdWZmZXIubGVuZ3RoKTsKICAgICAgICAgICAgICAgICAgICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCByZWFkU2l6ZTsgaSsrKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBvdXRwdXQud3JpdGVTaG9ydChtQnVmZmVyW2ldKTsKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0gY2F0Y2ggKElPRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgICAgICBUb2FzdC5tYWtlVGV4dChNYWluQWN0aXZpdHkudGhpcywgZS5nZXRNZXNzYWdlKCksIFRvYXN0LkxFTkdUSF9TSE9SVCkuc2hvdygpOwogICAgICAgICAgICAgICAgfSBmaW5hbGx5IHsKICAgICAgICAgICAgICAgICAgICBpZiAob3V0cHV0ICE9IG51bGwpIHsKICAgICAgICAgICAgICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIG91dHB1dC5mbHVzaCgpOwogICAgICAgICAgICAgICAgICAgICAgICB9IGNhdGNoIChJT0V4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBUb2FzdC5tYWtlVGV4dChNYWluQWN0aXZpdHkudGhpcywgZS5nZXRNZXNzYWdlKCksIFRvYXN0LkxFTkdUSF9TSE9SVCkuc2hvdygpOwogICAgICAgICAgICAgICAgICAgICAgICB9IGZpbmFsbHkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBMb2cuaShUQUcsICJjbG9zZSBmaWxlIik7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgb3V0cHV0LmNsb3NlKCk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgTG9nLmkoVEFHLCAiY29weSB0byB3YXYiKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb3B5V2F2ZUZpbGUobUZpbGVOYW1lKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0gY2F0Y2ggKElPRXhjZXB0aW9uIGUpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHdyaXRlSW5kZXggPT0gMCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgIFdyaXRlV2F2ZUZpbGVIZWFkZXIoKQogICAgICAgICAgICAgICAgICAgICAgICB3cml0ZUluZGV4ICs9IHJlYWRTaXplOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIFdyaXRlV2F2ZUZpbGVIZWFkZXIoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHdyaXRlSW5kZXggPT0gMCkKICAgICAgICAgICAgICAgICAgICAgICAgd3JpdGVJbmRleCArPSByZWFkU2l6ZTsKICAgICAgICAgICAgICAgICAgICAgICAgbUFUcmFja2VyLndyaXRlKG1CdWZmZXIsIDAsIG1CdWZmZXIubGVuZ3RoKTsKICAgICAgICAgICAgICAgICAgICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCByZWFkU2l6ZTsgaSsrKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBvdXRwdXQud3JpdGVTaG9ydChtQnVmZmVyW2ldKTsKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0gY2F0Y2ggKElPRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgICAgICBUb2FzdC5tYWtlVGV4dChNYWluQWN0aXZpdHkudGhpcywgZS5nZXRNZXNzYWdlKCksIFRvYXN0LkxFTkdUSF9TSE9SVCkuc2hvdygpOwogICAgICAgICAgICAgICAgfSBmaW5hbGx5IHsKICAgICAgICAgICAgICAgICAgICBpZiAob3V0cHV0ICE9IG51bGwpIHsKICAgICAgICAgICAgICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIG91dHB1dC5mbHVzaCgpOwogICAgICAgICAgICAgICAgICAgICAgICB9IGNhdGNoIChJT0V4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBUb2FzdC5tYWtlVGV4dChNYWluQWN0aXZpdHkudGhpcywgZS5nZXRNZXNzYWdlKCksIFRvYXN0LkxFTkdUSF9TSE9SVCkuc2hvdygpOwogICAgICAgICAgICAgICAgICAgICAgICB9IGZpbmFsbHkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBMb2cuaShUQUcsICJjbG9zZSBmaWxlIik7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgb3V0cHV0LmNsb3NlKCk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgTG9nLmkoVEFHLCAiY29weSB0byB3YXYiKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb3B5V2F2ZUZpbGUobUZpbGVOYW1lKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0gY2F0Y2ggKElPRXhjZXB0aW9uIGUpIHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHdyaXRlSW5kZXggPT0gMCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIFdyaXRlV2F2ZUZpbGVIZWFkZXIoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHdyaXRlSW5kZXggPT0gMCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgIFdyaXRlV2F2ZUZpbGVIZWFkZXIoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHdyaXRlSW5kZXggPT0gMCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQXBwTG9nLmxvZ1N0cmluZygiRmlsZSBzaXplOiAiICsgdG90YWxEYXRhTGVuKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHdyaXRlSW5kZXggPT0gMCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgIFdyaXRlV2F2ZUZpbGVIZWFkZXIoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQXBwTG9nLmxvZ1N0cmluZygiRmlsZSBzaXplOiAiICsgdG90YWxEYXRhTGVuKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -169,8 +176,8 @@
         <entry>action :cursive.actions.paredit/wrap-paren</entry>
         <entry>action CommentByLineComment</entry>
         <entry>action AceJumpAction</entry>
-        <entry>action Find</entry>
         <entry>action FindNext</entry>
+        <entry>action Find</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
