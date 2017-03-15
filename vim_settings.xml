@@ -50,12 +50,12 @@
         <mark key="." line="3" column="30" />
         <mark key="^" line="3" column="30" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/bluetothrecord/app/src/main/java/example/com/bluetothrecord/MainActivity.java" timestamp="1489547456648">
-        <mark key="'" line="111" column="0" />
-        <mark key="[" line="139" column="57" />
-        <mark key="]" line="139" column="55" />
-        <mark key="^" line="139" column="55" />
-        <mark key="." line="139" column="55" />
+      <file name="$USER_HOME$/AndroidStudioProjects/bluetothrecord/app/src/main/java/example/com/bluetothrecord/MainActivity.java" timestamp="1489548832192">
+        <mark key="'" line="35" column="0" />
+        <mark key="[" line="196" column="17" />
+        <mark key="]" line="196" column="28" />
+        <mark key="." line="214" column="0" />
+        <mark key="^" line="45" column="29" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/bluetothrecord/app/build.gradle" timestamp="1488770630673">
         <mark key="[" line="27" column="4" />
@@ -86,6 +86,9 @@
       <jump line="243" column="21" filename="$USER_HOME$/AndroidStudioProjects/bluetothrecord/app/src/main/java/example/com/bluetothrecord/MainActivity.java" />
       <jump line="260" column="28" filename="$USER_HOME$/AndroidStudioProjects/bluetothrecord/app/src/main/java/example/com/bluetothrecord/MainActivity.java" />
       <jump line="150" column="0" filename="$USER_HOME$/AndroidStudioProjects/bluetothrecord/app/src/main/java/example/com/bluetothrecord/MainActivity.java" />
+      <jump line="192" column="0" filename="$USER_HOME$/AndroidStudioProjects/bluetothrecord/app/src/main/java/example/com/bluetothrecord/MainActivity.java" />
+      <jump line="37" column="18" filename="$USER_HOME$/AndroidStudioProjects/bluetothrecord/app/src/main/java/example/com/bluetothrecord/MainActivity.java" />
+      <jump line="35" column="0" filename="$USER_HOME$/AndroidStudioProjects/bluetothrecord/app/src/main/java/example/com/bluetothrecord/MainActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -95,40 +98,41 @@
         <text encoding="base64">cGFja2FnZSBleGFtcGxlLmNvbS5ibHVldG90aHJlY29yZDsKCmltcG9ydCBhbmRyb2lkLm1lZGlhLkF1ZGlvTWFuYWdlcjsKaW1wb3J0IGFuZHJvaWQub3MuQnVuZGxlOwppbXBvcnQgYW5kcm9pZC5zdXBwb3J0LmRlc2lnbi53aWRnZXQuRmxvYXRpbmdBY3Rpb25CdXR0b247CmltcG9ydCBhbmRyb2lkLnN1cHBvcnQuZGVzaWduLndpZGdldC5TbmFja2JhcjsKaW1wb3J0IGFuZHJvaWQuc3VwcG9ydC52NC5hcHAuQWN0aXZpdHlDb21wYXQ7CmltcG9ydCBhbmRyb2lkLnN1cHBvcnQudjcuYXBwLkFwcENvbXBhdEFjdGl2aXR5OwppbXBvcnQgYW5kcm9pZC5zdXBwb3J0LnY3LndpZGdldC5Ub29sYmFyOwppbXBvcnQgYW5kcm9pZC52aWV3LlZpZXc7CmltcG9ydCBhbmRyb2lkLnZpZXcuTWVudTsKaW1wb3J0IGFuZHJvaWQudmlldy5NZW51SXRlbTsKaW1wb3J0IGFuZHJvaWQudmlldy5WaWV3Lk9uQ2xpY2tMaXN0ZW5lcjsKaW1wb3J0IGFuZHJvaWQud2lkZ2V0LkJ1dHRvbjsKaW1wb3J0IGFuZHJvaWQubWVkaWEuTWVkaWFSZWNvcmRlcjsKaW1wb3J0IGFuZHJvaWQuY29udGVudC5Ccm9hZGNhc3RSZWNlaXZlcjsKaW1wb3J0IGFuZHJvaWQuY29udGVudC5Db250ZXh0OwppbXBvcnQgYW5kcm9pZC5jb250ZW50LkludGVudDsKaW1wb3J0IGFuZHJvaWQuY29udGVudC5JbnRlbnRGaWx0ZXI7CmltcG9ydCBhbmRyb2lkLmNvbnRlbnQucG0uUGFja2FnZU1hbmFnZXI7CmltcG9ydCBhbmRyb2lkLm9zLkVudmlyb25tZW50OwppbXBvcnQgYW5kcm9pZC51dGlsLkxvZzsKaW1wb3J0IGphdmEubGFuZy5DaGFyU2VxdWVuY2U7CmltcG9ydCBhbmRyb2lkLndpZGdldC5Ub2FzdDsKaW1wb3J0IGFuZHJvaWQuTWFuaWZlc3Q7CmltcG9ydCBhbmRyb2lkLnN1cHBvcnQuYW5ub3RhdGlvbi5Ob25OdWxsOwoKcHVibGljIGNsYXNzIE1haW5BY3Rpdml0eSBleHRlbmRzIEFwcENvbXBhdEFjdGl2aXR5IHsKICAgIHByaXZhdGUgU3RyaW5nIFRBRyA9ICJCbHVldG9vdGhSZWNvcmQiOwogICAgcHJpdmF0ZSBzdGF0aWMgU3RyaW5nIG1GaWxlTmFtZSA9IG51bGw7CiAgICBwcml2YXRlIEF1ZGlvTWFuYWdlciBtQXVkaW9NYW5hZ2VyID0gbnVsbDsKICAgIHByaXZhdGUgTWVkaWFSZWNvcmRlciBtUmVjb3JkZXIgPSBudWxsOwogICAgcHJpdmF0ZSBCdXR0b24gc3RhcnRSZWNvcmRCdXR0b247CiAgICBwcml2YXRlIEJ1dHRvbiBzdG9wUmVjb3JkQnV0dG9uOwogICAgLy8gUmVxdWVzdGluZyBwZXJtaXNzaW9uIHRvIFJFQ09SRF9BVURJTwogICAgcHJpdmF0ZSBib29sZWFuIHBlcm1pc3Npb25Ub1JlY29yZEFjY2VwdGVkID0gZmFsc2U7CiAgICBwcml2YXRlIFN0cmluZyBbXSBwZXJtaXNzaW9ucyA9IHtNYW5pZmVzdC5wZXJtaXNzaW9uLlJFQ09SRF9BVURJTywgTWFuaWZlc3QucGVybWlzc2lvbi5XUklURV9FWFRFUk5BTF9TVE9SQUdFfTsKICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGludCBSRVFVRVNUX1JFQ09SRF9BVURJT19QRVJNSVNTSU9OID0gMjAwOwogICAgcHJpdmF0ZSBzdGF0aWMgZmluYWwgaW50IFJFUVVFU1RfV1JJVEVfRVhURVJOQUxfU1RPUkFHRSA9IDIwMTsKICAgIGFuZHJvaWQucGVybWlzc2lvbi5NT0RJRllfQVVESU9fU0VUVElOR1MiLz4KICAgIA==</text>
       </register>
       <register name="-" type="4">
-        <text>AudioManager.SCO_AUDIO_STATE_DISCONNECTED</text>
+        <text>&quot;再次startBluetoothSco()&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtQnVmZmVyXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBMb2cuaShUQUcsICJBdWRpb01hbmFnZXIuU0NPX0FVRElPX1NUQVRFX0RJU0NPTk5FQ1RFRCIpOwo=</text>
+      <register name="0" type="4">
+        <text>copyWaveFile</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaXNSZWNvcmRpbmcgPSBmYWxzZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgQXBwTG9nLmxvZ1N0cmluZygiRmlsZSBzaXplOiAiICsgdG90YWxEYXRhTGVuKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpc1JlY29yZGluZz1mYWxzZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB1bnJlZ2lzdGVyUmVjZWl2ZXIodGhpcyk7ICAvLz8/unwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbnQgYnVmZmVyU2l6ZSA9IEF1ZGlvUmVjb3JkLmdldE1pbkJ1ZmZlclNpemUoODAwMCwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEuaW8uRmlsZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZWdpc3RlclJlY2VpdmVyKG5ldyBCcm9hZGNhc3RSZWNlaXZlcigpIHsKICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgIHB1YmxpYyB2b2lkIG9uUmVjZWl2ZShDb250ZXh0IGNvbnRleHQsIEludGVudCBpbnRlbnQpIHsKICAgICAgICAgICAgICAgIGludCBzdGF0ZSA9IGludGVudC5nZXRJbnRFeHRyYShBdWRpb01hbmFnZXIuRVhUUkFfU0NPX0FVRElPX1NUQVRFLCAtMSk7CgogICAgICAgICAgICAgICAgaWYgKEF1ZGlvTWFuYWdlci5TQ09fQVVESU9fU1RBVEVfQ09OTkVDVEVEID09IHN0YXRlKSB7CiAgICAgICAgICAgICAgICAgICAgTG9nLmkoVEFHLCAiQXVkaW9NYW5hZ2VyLlNDT19BVURJT19TVEFURV9DT05ORUNURUQiKTsKICAgICAgICAgICAgICAgICAgICBtQXVkaW9NYW5hZ2VyLnNldFNwZWFrZXJwaG9uZU9uKGZhbHNlKTsKICAgICAgICAgICAgICAgICAgICBtQXVkaW9NYW5hZ2VyLnNldEJsdWV0b290aFNjb09uKHRydWUpOyAgLy+ltD9TQ08KICAgICAgICAgICAgICAgICAgICBMb2cuaShUQUcsICJSb3V0aW5nOiIgKyBtQXVkaW9NYW5hZ2VyLmlzQmx1ZXRvb3RoU2NvT24oKSk7CiAgICAgICAgICAgICAgICAgICAgbUF1ZGlvTWFuYWdlci5zZXRNb2RlKEF1ZGlvTWFuYWdlci5NT0RFX0lOX0NPTU1VTklDQVRJT04pOwogICAgICAgICAgICAgICAgICAgIC8vbVJlY29yZGVyLnN0YXJ0KCk7Ly8/qWw/rbUKICAgICAgICAgICAgICAgIH0gZWxzZSBpZihBdWRpb01hbmFnZXIuU0NPX0FVRElPX1NUQVRFX0RJU0NPTk5FQ1RFRCA9PSBzdGF0ZSl7CiAgICAgICAgICAgICAgICAgICAgTG9nLmkoVEFHLCAiQXVkaW9NYW5hZ2VyLlNDT19BVURJT19TVEFURV9ESVNDT05ORUNURUQiKTsKICAgICAgICAgICAgICAgICAgICB1bnJlZ2lzdGVyUmVjZWl2ZXIodGhpcyk7ICAvLz8/unwKICAgICAgICAgICAgICAgIH0gZWxzZSBpZihBdWRpb01hbmFnZXIuU0NPX0FVRElPX1NUQVRFX0NPTk5FQ1RJTkcgPT0gc3RhdGUpIHsKICAgICAgICAgICAgICAgICAgICBMb2cuaShUQUcsICJBdWRpb01hbmFnZXIuU0NPX0FVRElPX1NUQVRFX0NPTk5FQ1RJTkciKTsKICAgICAgICAgICAgICAgIH0gZWxzZXsvL7Wlq92kQKztplqmQT8/Pz9TQ08KICAgICAgICAgICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgICAgICAgICBUaHJlYWQuc2xlZXAoMTAwMDApOwogICAgICAgICAgICAgICAgICAgIH0gY2F0Y2ggKEludGVycnVwdGVkRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgbUF1ZGlvTWFuYWdlci5zdGFydEJsdWV0b290aFNjbygpOwogICAgICAgICAgICAgICAgICAgIExvZy5pKFRBRywgIqZBprhzdGFydEJsdWV0b290aFNjbygpIik7CgogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgfSwgbmV3IEludGVudEZpbHRlcihBdWRpb01hbmFnZXIuQUNUSU9OX1NDT19BVURJT19TVEFURV9VUERBVEVEKSk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEuaW8uRmlsZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQogICAgICAgIH0sIG5ldyBJbnRlbnRGaWx0ZXIoQXVkaW9NYW5hZ2VyLkFDVElPTl9TQ09fQVVESU9fU1RBVEVfVVBEQVRFRCkpOwo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmEuaW8uRmlsZQppbXBvcnQgamF2YS5pby5GaWxlT3V0cHV0U3RyZWFtOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEuaW8uRmlsZTsKaW1wb3J0IGphdmEuaW8uRmlsZU91dHB1dFN0cmVhbTsK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>import java.io.File;
+import java.io.FileOutputStream;</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
