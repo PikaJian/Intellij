@@ -50,12 +50,12 @@
         <mark key="." line="3" column="30" />
         <mark key="^" line="3" column="30" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/bluetothrecord/app/src/main/java/example/com/bluetothrecord/MainActivity.java" timestamp="1489560155641">
-        <mark key="'" line="315" column="34" />
-        <mark key="[" line="210" column="31" />
-        <mark key="]" line="210" column="40" />
-        <mark key="." line="272" column="28" />
-        <mark key="^" line="272" column="28" />
+      <file name="$USER_HOME$/AndroidStudioProjects/bluetothrecord/app/src/main/java/example/com/bluetothrecord/MainActivity.java" timestamp="1489560879465">
+        <mark key="'" line="215" column="21" />
+        <mark key="[" line="350" column="28" />
+        <mark key="]" line="351" column="7" />
+        <mark key="." line="351" column="7" />
+        <mark key="^" line="351" column="7" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/bluetothrecord/app/build.gradle" timestamp="1488770630673">
         <mark key="[" line="27" column="4" />
@@ -94,6 +94,8 @@
       <jump line="285" column="17" filename="$USER_HOME$/AndroidStudioProjects/bluetothrecord/app/src/main/java/example/com/bluetothrecord/MainActivity.java" />
       <jump line="167" column="20" filename="$USER_HOME$/AndroidStudioProjects/bluetothrecord/app/src/main/java/example/com/bluetothrecord/MainActivity.java" />
       <jump line="313" column="34" filename="$USER_HOME$/AndroidStudioProjects/bluetothrecord/app/src/main/java/example/com/bluetothrecord/MainActivity.java" />
+      <jump line="351" column="7" filename="$USER_HOME$/AndroidStudioProjects/bluetothrecord/app/src/main/java/example/com/bluetothrecord/MainActivity.java" />
+      <jump line="215" column="21" filename="$USER_HOME$/AndroidStudioProjects/bluetothrecord/app/src/main/java/example/com/bluetothrecord/MainActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
