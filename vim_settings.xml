@@ -50,11 +50,13 @@
         <mark key="." line="3" column="30" />
         <mark key="^" line="3" column="30" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/bluetothrecord/app/src/main/java/example/com/bluetothrecord/MainActivity.java" timestamp="1489580684128">
+      <file name="$USER_HOME$/AndroidStudioProjects/bluetothrecord/app/src/main/java/example/com/bluetothrecord/MainActivity.java" timestamp="1505187923640">
         <mark key="a" line="214" column="61" />
-        <mark key="[" line="150" column="0" />
-        <mark key="]" line="153" column="33" />
-        <mark key="." line="150" column="0" />
+        <mark key="'" line="337" column="17" />
+        <mark key="[" line="355" column="10" />
+        <mark key="]" line="338" column="39" />
+        <mark key="." line="338" column="39" />
+        <mark key="^" line="338" column="39" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/bluetothrecord/app/build.gradle" timestamp="1488770630673">
         <mark key="[" line="27" column="4" />
@@ -111,6 +113,7 @@
       <jump line="49" column="15" filename="$USER_HOME$/AndroidStudioProjects/bluetothrecord/app/src/main/java/example/com/bluetothrecord/MainActivity.java" />
       <jump line="114" column="20" filename="$USER_HOME$/AndroidStudioProjects/bluetothrecord/app/src/main/java/example/com/bluetothrecord/MainActivity.java" />
       <jump line="115" column="20" filename="$USER_HOME$/AndroidStudioProjects/bluetothrecord/app/src/main/java/example/com/bluetothrecord/MainActivity.java" />
+      <jump line="337" column="17" filename="$USER_HOME$/AndroidStudioProjects/bluetothrecord/app/src/main/java/example/com/bluetothrecord/MainActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -123,7 +126,7 @@
         <text>=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtQVRyYWNrZXJcPg==</text>
+        <text>mARecord</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2cuaShUQUcsICJzeXN0ZW0gc3VwcG9ydCBibHVldG9vdGggcmVjb3JkIik7Cg==</text>
@@ -160,11 +163,11 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtQVRyYWNrZXJcPg==</last-search>
+      <last-search>mARecord</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtQVRyYWNrZXJcPg==</last-pattern>
+      <last-pattern>mARecord</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -173,6 +176,7 @@
         <entry encoding="base64">XDxzdGFydEJ1ZmZlcmVkV3JpdGVcPg==</entry>
         <entry encoding="base64">XDxtQnVmZmVyXD4=</entry>
         <entry encoding="base64">XDxtQVRyYWNrZXJcPg==</entry>
+        <entry>mARecord</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
@@ -231,6 +235,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
