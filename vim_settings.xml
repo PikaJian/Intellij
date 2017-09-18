@@ -13,6 +13,12 @@
       <file name="/Dummy.txt" timestamp="1489562190633">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/BluetoothChat/Application/src/main/java/com/example/android/common/activities/SampleActivityBase.java" timestamp="1488550904844">
+        <mark key="[" line="32" column="27" />
+        <mark key="]" line="32" column="26" />
+        <mark key="^" line="32" column="26" />
+        <mark key="." line="32" column="26" />
+      </file>
       <file name="$USER_HOME$/.idealvimrc" timestamp="1488777843909">
         <mark key="[" line="59" column="9" />
         <mark key="]" line="59" column="9" />
@@ -26,6 +32,9 @@
         <mark key="." line="77" column="0" />
         <mark key="^" line="77" column="0" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/BluetoothChat/Application/src/main/res/values/base-strings.xml" timestamp="1488555053102">
+        <mark key="[" line="18" column="41" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/BluetoothChat/Application/src/main/java/com/example/android/bluetoothchat/MainActivity.java" timestamp="1488554615501">
         <mark key="[" line="108" column="28" />
         <mark key="]" line="108" column="31" />
@@ -35,7 +44,13 @@
       <file name="/a.dummy" timestamp="1488772220332">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/bluetothrecord/app/src/main/java/example/com/bluetothrecord/MainActivity.java" timestamp="1505201339153">
+      <file name="$USER_HOME$/AndroidStudioProjects/bluetothrecord/app/src/main/AndroidManifest.xml" timestamp="1488732866957">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="7" column="65" />
+        <mark key="." line="3" column="30" />
+        <mark key="^" line="3" column="30" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/bluetothrecord/app/src/main/java/example/com/bluetothrecord/MainActivity.java" timestamp="1505733941321">
         <mark key="a" line="217" column="61" />
         <mark key="'" line="340" column="8" />
         <mark key="[" line="307" column="66" />
@@ -43,26 +58,11 @@
         <mark key="." line="307" column="59" />
         <mark key="^" line="307" column="59" />
       </file>
-      <file name="$USER_HOME$/AppData/Local/Android/sdk/extras/android/m2repository/com/android/support/support-fragment/25.0.1/support-fragment-25.0.1-sources.jar!/android/support/v4/app/Fragment.java" timestamp="1488647025514">
-        <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/BluetoothChat/Application/src/main/java/com/example/android/common/activities/SampleActivityBase.java" timestamp="1488550904844">
-        <mark key="[" line="32" column="27" />
-        <mark key="]" line="32" column="26" />
-        <mark key="^" line="32" column="26" />
-        <mark key="." line="32" column="26" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/BluetoothChat/Application/src/main/res/values/base-strings.xml" timestamp="1488555053102">
-        <mark key="[" line="18" column="41" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/bluetothrecord/app/src/main/AndroidManifest.xml" timestamp="1488732866957">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="7" column="65" />
-        <mark key="." line="3" column="30" />
-        <mark key="^" line="3" column="30" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/bluetothrecord/app/build.gradle" timestamp="1488770630673">
         <mark key="[" line="27" column="4" />
+      </file>
+      <file name="$USER_HOME$/AppData/Local/Android/sdk/extras/android/m2repository/com/android/support/support-fragment/25.0.1/support-fragment-25.0.1-sources.jar!/android/support/v4/app/Fragment.java" timestamp="1488647025514">
+        <mark key="'" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -170,7 +170,7 @@
       <last-offset />
       <last-pattern encoding="base64">XDxtQnVmZmVyXD4=</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
